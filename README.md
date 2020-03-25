@@ -23,7 +23,7 @@
 - Github: [@nellencr](https://github.com/nellencr)
 - Twitter: [Nella](https://twitter.com/Nella75794271)
 - Linkedin: [Nela Komane](https://www.linkedin.com/in/nela-komane-8866b9192/)
-- Email: [Email Address](<a href="mailto:nellencr@gmail.com" target="_blank">)
+- Email: nellencr@gmail.com
 
 
 
