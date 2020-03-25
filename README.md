@@ -3,7 +3,7 @@
 
 > FCC: Random Qoute Machine
 
-![screenshot](/screenshot.png)
+![screenshot](images/screen.png)
 
 
 ## Built With
