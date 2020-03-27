@@ -11,7 +11,6 @@
 - Html5,
 - CSS3
 - JavaScript
-- Jquery
 
 ## Live Demo
  [Live Demo](https://raw.githack.com/nellencr/Random-qoute-/feature/index.html)
